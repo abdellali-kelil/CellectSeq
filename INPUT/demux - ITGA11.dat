@@ -1,0 +1,3 @@
+#Forward Primer	#Read1 index	#Reverse primer	#Read2 index	#Sample	#Library	#Contact
+F03	TCAGCAGC	R03	GCCTAA	ITGA11 C2C12 pos	LibF	Sachdev Sidhu | Jarret Adams | Gino Gallo
+F04	CAGGGAAT	R04	TGGTCA	ITGA11 C2C12 neg	LibF	Sachdev Sidhu | Jarret Adams | Gino Gallo
