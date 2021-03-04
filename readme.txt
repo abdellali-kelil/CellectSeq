@@ -47,7 +47,7 @@ Folders:
            "tests?.dat" defines positive and negative pools
  RESULT  : NGS data and analysis for CD151, CA9, and ITGA11
  TEMP    : Temporary folder required during execution
- STEP01  : NGS equences pools
+ STEP01  : NGS sequence pools
  STEP02  : Concatenated pools
  STEP03  : Motifs discovered in NGS pools
  STEP04  : Predicted high specificity sequences
